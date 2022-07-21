@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c96aa34.css",
+    "main.js": "/static/js/main.fd0b7a3b.js",
+    "static/js/787.94c209f9.chunk.js": "/static/js/787.94c209f9.chunk.js",
+    "static/media/gecekodu.png": "/static/media/gecekodu.05fd56ae94222c35ded0.png",
+    "static/media/bizbize.JPG": "/static/media/bizbize.c2d524d96e92c07ca2a0.JPG",
+    "static/media/akademi.JPG": "/static/media/akademi.7759b0e84d1ffa8c9b69.JPG",
+    "static/media/artlab.jpg": "/static/media/artlab.404d9fcd27ade737e5a9.jpg",
+    "static/media/skydays.jpg": "/static/media/skydays.707a2a92e2171a4d02f5.jpg",
+    "static/media/mobil.png": "/static/media/mobil.b3a8822a4085d07a01ca.png",
+    "static/media/air (1).png": "/static/media/air (1).371253dd34680a5f6a00.png",
+    "static/media/yildiz_50.png": "/static/media/yildiz_50.a5779b900a9465eb5c4d.png",
+    "static/media/weblab_20.png": "/static/media/weblab_20.c45bc9db543069b287e3.png",
+    "index.html": "/index.html",
+    "main.3c96aa34.css.map": "/static/css/main.3c96aa34.css.map",
+    "main.fd0b7a3b.js.map": "/static/js/main.fd0b7a3b.js.map",
+    "787.94c209f9.chunk.js.map": "/static/js/787.94c209f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c96aa34.css",
+    "static/js/main.fd0b7a3b.js"
+  ]
+}
